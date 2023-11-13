@@ -10,7 +10,7 @@ A full-stack Amazon clone built with React, Redux, Firebase, Stripe, Tailwind CS
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 This project is a comprehensive Amazon clone that mimics the core functionalities of the popular e-commerce platform. It is built using React and Redux for the frontend, 
@@ -45,7 +45,6 @@ Firebase for authentication and database, Stripe for handling payments, Tailwind
 ## Usage
 
 ## Firebase Setup
-
 ### Authentication
 
 1. Create a Firebase project [here](https://console.firebase.google.com/).
