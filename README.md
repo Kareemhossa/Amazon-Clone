@@ -1,4 +1,4 @@
-echo "# Amazon Clone
+# Amazon Clone
 
 A full-stack Amazon clone built with React, Redux, Firebase, Stripe, Tailwind CSS, Axios, Swiper, and React Icons.
 
