@@ -1,0 +1,739 @@
+{
+  "card": [
+    {
+      "id": 1,
+      "title": "Sale Furniture | Up to 30% off",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/OHL/SD23/XCM_Manual_1649866_5978710_379x304_1X._SY304_CB574309568_.jpg",
+      "link": "See more"
+    },
+    {
+      "id": 2,
+      "title": "Beverages in Packs",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/Consumables/XCM_Manual_1650690_5974173_379x304_1X._SY304_CB573907165_.jpg",
+      "link": "See more"
+    },
+    {
+      "id": 3,
+      "title": "Sale | Flash Sale",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/SL/SD23/New/XCM_Manual_1655620_5970881_379x304_1X._SY304_CB573914902_.jpg",
+      "link": "See more"
+    },
+    {
+      "id": 4,
+      "title": "Unlimited Streaming",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/1111Sale/EG_MSC_379x304._SY304_CB574013168_.jpg",
+      "link": "See more"
+    },
+    {
+      "id": 5,
+      "title": "Tools | Free delivery on first order*",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/OHL/SD23/XCM_Manual_1649866_5978715_379x304_1X._SY304_CB574309536_.jpg",
+      "link": "See more"
+    },
+    {
+      "id": 6,
+      "title": "Electronics | Buy 1 Get 1",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/Consumer_Electronics/XCM_Manual_1650623_5976272_379x304_1X._SY304_CB574291490_.jpg",
+      "link": "See more"
+    },
+    {
+      "id": 7,
+      "title": "Vitamins & Supplements ",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/Consumables/XCM_Manual_1650690_5974179_379x304_1X._SY304_CB573907165_.jpg",
+      "link": "See more"
+    },
+    {
+      "id": 8,
+      "title": "Hair Care | Top deals",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/Consumables/XCM_Manual_1650690_5974172_379x304_1X._SY304_CB573907165_.jpg",
+      "link": "See more"
+    }
+  ],
+
+  "cardb": [
+    {
+      "id": 1,
+      "title": "Home organizers ",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/Home/XCM_CUTTLE_1631808_3414962_379x304_1X_en_AE._SY304_CB578425757_.jpg",
+      "link": "See more"
+    },
+    {
+      "id": 2,
+      "title": "Tools & Home Improvement",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/ohl/BAU/XCM_Manual_1397527_4402457_Egypt_EG_BAU_DC_OHL_Tools_DC_2x_379x304_1X._SY304_CB649320776_.jpg",
+      "link": "See more"
+    },
+    {
+      "id": 3,
+      "title": "Musical Instruments ",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/Musical_Instruments/XCM_Manual_1533480_5305769_379x304_1X._SY304_CB616236518_.jpg",
+      "link": "See more"
+    },
+    {
+      "id": 4,
+      "title": " Jewelry & accessories",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/SL/DEC/GW/XCM_Manual_1396328_4379574_Egypt_EG_BAU_GW_DC_SL_Jewelry_379x304_1X._SY304_CB650636675_.jpg",
+      "link": "See more"
+    },
+    {
+      "id": 5,
+      "title": "Mattresses | From EGP 935",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/Home/XCM_CUTTLE_1631808_3414975_379x304_1X_en_AE._SY304_CB578425757_.jpg",
+      "link": "See more"
+    }
+  ],
+
+  "discover": [
+    {
+      "id": 1,
+      "title": "Discover1",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/Outbound/XCM_Manual_1616427_5886076_400x400_2X.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Discover2",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/Outbound/XCM_Manual_1616427_5886082_400x400_2X.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Discover3",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/Outbound/XCM_Manual_1616427_5886075_400x400_2X.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Discover4",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/Outbound/XCM_Manual_1616427_5886066_400x400_2X.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Discover5",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/Outbound/XCM_Manual_1616427_5886069_400x400_2X.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Discover6",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/Outbound/XCM_Manual_1616427_5900023_400x400_2X.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Discover7",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/Outbound/XCM_Manual_1616427_5886073_400x400_2X.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Discover8",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2023/img/Outbound/XCM_Manual_1616427_5886064_400x400_2X.jpg"
+    }
+  ],
+
+  "product": [
+    {
+      "id": 0,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "img": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "attribute": "men's clothing",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "brand": "Lee Child",
+      "avgRating": 4,
+      "ratings": 24089,
+      "price": 11.0,
+      "oldPrice": 22.0,
+      "badge": "seller"
+    },
+    {
+      "id": 1,
+      "title": "Optimum Nutrition Gold Standard 100% Whey Protein Powder2.27 Kg, 5 Lb, 71 Servings",
+      "img": "https://m.media-amazon.com/images/I/51vt+41KjuS._AC_SR400,600_AGcontrast_.jpg",
+      "attribute": "Paperback",
+      "brand": "Optimum Nutrition",
+      "description": "Optimum Nutrition Gold Standard 100% Whey Protein Powder, Extreme Milk Chocolate, 2.27 Kg, 5 Lb, 71 Servings",
+      "avgRating": 4,
+      "ratings": 2993,
+      "price": 13.0,
+      "oldPrice": 23.0,
+      "badge": "choice"
+    },
+    {
+      "id": 2,
+      "title": "Joyroom JR-FT5 Fit-Life series, Waterproof IP68 Smartwatch",
+      "img": "https://m.media-amazon.com/images/I/61eZS47nnWL._AC_SX679_.jpg",
+      "attribute": "Smartphone",
+      "description": "Model name: JR FT5 Style: Modern Display Size: 169 inches.",
+      "brand": "Joyroom",
+      "avgRating": 5,
+      "ratings": 29283,
+      "price": 10.0,
+      "oldPrice": 20.0
+    },
+    {
+      "id": 3,
+      "title": "iPad Air 5th Generation (2022)  ",
+      "img": "https://m.media-amazon.com/images/I/61f09R1DADL._AC_SX679_.jpg",
+      "attribute": "apple ipad mini",
+      "description": "  FINTIE Hybrid Case Compatible with iPad Air 5th Generation (2022) / iPad Air 4th Generation (2020) 10.9 inch - Slim Clear Back Cover with Pencil Holder, Auto Wake/Sleep, Alpine Green",
+      "brand": "FINTIE",
+      "avgRating": 4,
+      "ratings": 885,
+      "price": 10.9,
+      "oldPrice": 13.99,
+      "badge": "limited"
+    },
+    {
+      "id": 4,
+      "title": "EA SPORTS FC 24 - PlayStation 5",
+      "img": "https://m.media-amazon.com/images/I/71Wltf78aJL._AC_SX569_.jpg",
+      "attribute": "PlayStation 5",
+      "description": "EA SPORTS FC 24 is a new era for The World’s Game: 19,000+ fully licensed players, 700+ teams, and 30+ leagues playing together in the most authentic football experience ever created. Feel closer to the game with three cutting-edge technologies powering unparalleled realism in every match.",
+      "brand": "Sony",
+      "avgRating": 4,
+      "ratings": 44402,
+      "price": 3.063,
+      "oldPrice": 14.99,
+      "badge": "choice"
+    },
+    {
+      "id": 5,
+      "title": " Lenovo IdeaPad Gaming 3 15ACH6 Laptop ",
+      "img": "https://m.media-amazon.com/images/I/71SkQ-Zj79L._AC_SX679_.jpg",
+      "attribute": "Laptop",
+      "description": "Lenovo IdeaPad Gaming 3 15ACH6 Laptop - Ryzen 7 5800H 8-Cores, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3060 6GB GDDR6 Graphics, 15.6 FHD (1920x1080) IPS 120Hz, 4-Zone RGB Backlit - Windows 11 ",
+      "brand": " Lenovo",
+      "avgRating": 5,
+      "ratings": 877,
+      "price": 719.48,
+      "oldPrice": 1111.99,
+      "badge": "choice"
+    },
+    {
+      "id": 6,
+      "title": "Philips Deep Fryer",
+      "img": "https://m.media-amazon.com/images/I/710eBrF9fWL._AC_SX679_.jpg",
+      "attribute": "Temperature Control, Programmable",
+      "description": "Great Tasting Fries With Up To 90Percent Less Fat Philips Brings The World'S No.1 Airfryer To Everyone'S Home. Enjoy Healthy Food That'S Crispy On The Outside And Tender On The Inside, Thanks To Rapid Air Technology. Download The Nutriu App To Discover Hundreds Of Tasty Recipes Every Day - International warranty",
+      "brand": " PHILIPS",
+      "avgRating": 4,
+      "ratings": 62749,
+      "price": 8.0,
+      "oldPrice": 16.99
+    },
+
+    {
+      "id": 7,
+      "title": "Kindle Paperwhite (16GB) ",
+      "img": "https://m.media-amazon.com/images/I/61RLB46xFRL.__AC_SY445_SX342_QL70_ML2_.jpg",
+      "attribute": "Amazon",
+      "description": "Kindle Paperwhite is thin, lightweight, and travels easily so you can enjoy your favorite books at any time. With our signature 300 ppi glare-free Paperwhite display—now 10% brighter at its max setting—you can read in any light. A single battery charge via USB-C lasts up to 10 weeks. Battery life may vary depending on use.",
+      "brand": "Amazon",
+      "avgRating": 5,
+      "ratings": 29283,
+      "price": 10.0,
+      "oldPrice": 20.0
+    },
+    {
+      "id": 8,
+      "title": "Samsung Galaxy A14 LTE, 64GB Storage, 4GB RAM,",
+      "img": "https://m.media-amazon.com/images/I/81B66GxivHL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "attribute": "Sensors Fingerprint (side-mounted), accelerometer, proximity, compass",
+      "description": "Your Galaxy A14 smoothes things out when you're short-handed while multi-tasking, providing you with that extra room needed.*4/6GB memory models will support up to 4/6GB of internal storage that can be used as virtual memory to improve app performance.**Memory options and availability may vary by country, region or carrier. Available memory capacity is subject to preloaded system",
+      "brand": "Samsung",
+      "avgRating": 4,
+      "ratings": 885,
+      "price": 10.9,
+      "oldPrice": 13.99,
+      "badge": "limited"
+    }
+  ],
+
+  "category": [
+    {
+      "id": 0,
+      "title": "All",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Sunrise/Events/2023/SD/Bubbler/Revised/XCM_Manual_1655734_5966748_200x200_1X._CB573643293_.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Deals",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2022/img/Global_Consumer_Marketing/XCM_Manual_1407670_4466703_Egypt_Budget_Store_EG_GW_BUB_Xsite_Under99_EN_200x200_1X._CB646559078_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Fashion",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Egypt-hq/2022/img/Global_Consumer_Marketing/XCM_Manual_1498352_5199174_200x200_1X._CB604510486_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Computers",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Sunrise/Events/2023/SD/Bubbler/Revised/XCM_Manual_1655734_5966708_200x200_1X._CB573643293_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Home",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Sunrise/Events/2023/SD/Bubbler/Revised/XCM_Manual_1655734_5966728_200x200_1X._CB573643293_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Mobiles",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/42/Sunrise/Events/2023/SD/Bubbler/Revised/XCM_Manual_1655734_5966717_200x200_1X._CB573643293_.jpg"
+    }
+  ],
+  "search": {
+    "All": [
+      {
+        "id": 0,
+        "title": "No Plan B",
+        "img": "https://live.staticflickr.com/65535/53328643305_e6794dfb1a_m.jpg",
+        "attribute": "Paperback",
+        "description": "The gripping new Jack Reacher thriller from the No.1 bestselling authors Lee Child and Andrew Child.",
+        "brand": "Lee Child",
+        "avgRating": 4,
+        "ratings": 24089,
+        "price": 11.0,
+        "oldPrice": 22.0,
+        "badge": "seller",
+        "category": "All"
+      },
+      {
+        "id": 1,
+        "title": "One: Simple One-Pan Wonders",
+        "img": "https://live.staticflickr.com/65535/53328182631_ac04d0251c_m.jpg",
+        "attribute": "Paperback",
+        "brand": "Jamie Oliver",
+        "description": "Give them the simplest cookbook ever this Christmas . . . Jamie's back to basics with over 120 simple, delicious, ONE pan recipes",
+        "avgRating": 4,
+        "ratings": 2993,
+        "price": 13.0,
+        "oldPrice": 23.0,
+        "badge": "choice"
+      },
+      {
+        "id": 2,
+        "title": "The Bullet That Missed: (The Thursday Murder Club 3)",
+        "img": "https://live.staticflickr.com/65535/53328405108_a725c28c3b_m.jpg",
+        "attribute": "Paperback",
+        "description": "Except trouble is never far away where the Thursday Murder Club is concerned. ",
+        "brand": "Richard Osman",
+        "avgRating": 5,
+        "ratings": 29283,
+        "price": 10.0,
+        "oldPrice": 20.0
+      },
+      {
+        "id": 3,
+        "title": "Interesting Facts For Curious Minds",
+        "img": "https://live.staticflickr.com/65535/53322405290_1dc17c3a7c_m.jpg",
+        "attribute": "Hardcover",
+        "description": "Want to impress your friends and family with both useful, worthless but undeniably interesting facts? ",
+        "brand": "Jordan Moore",
+        "avgRating": 4,
+        "ratings": 885,
+        "price": 10.9,
+        "oldPrice": 13.99,
+        "badge": "limited"
+      },
+      {
+        "id": 4,
+        "title": "It Start with Us",
+        "img": "https://live.staticflickr.com/65535/53328643275_66251cdcf9_m.jpg",
+        "attribute": "Paperback",
+        "description": "Colleen Hoover tells fan favourite Atlas’s side of the story and shares what comes next in this long-anticipated sequel to the #1 Sunday Times bestseller It Ends with Us ",
+        "brand": "Colleen Hoover",
+        "avgRating": 4,
+        "ratings": 44402,
+        "price": 7.0,
+        "oldPrice": 14.99,
+        "badge": "choice"
+      },
+      {
+        "id": 5,
+        "title": "SPACEBOY",
+        "img": "https://live.staticflickr.com/65535/53328525934_cd33967f50_m.jpg",
+        "attribute": "Paperback",
+        "description": "Go back to the Space Race with No.1 bestselling author David Walliams for a breathless cinematic adventure full of mystery, action, laughs and surprises ",
+        "brand": "David Walliams",
+        "avgRating": 5,
+        "ratings": 877,
+        "price": 7.0,
+        "oldPrice": 14.99,
+        "badge": "choice"
+      },
+      {
+        "id": 6,
+        "title": "Lessons in Chemistry",
+        "img": "https://live.staticflickr.com/65535/53328182586_4df709e957_m.jpg",
+        "attribute": "Hardcover",
+        "description": "Chemist Elizabeth Zott is not your average woman. In fact, Elizabeth Zott would be the first to point out that there is no such thing.",
+        "brand": "Bonnie Garmus",
+        "avgRating": 4,
+        "ratings": 62749,
+        "price": 8.0,
+        "oldPrice": 16.99
+      },
+      {
+        "id": 7,
+        "title": "Fire TV Stick Lite",
+        "img": "https://live.staticflickr.com/65535/53328525904_97798348ec_m.jpg",
+        "attribute": "Streaming Device",
+        "description": "Our most affordable Fire TV Stick—enjoy fast streaming in Full HD. Comes with Alexa Voice Remote Lite. Easy to set up, stays hidden—plug in behind your TV, turn on the TV and connect to the internet to get set up. ",
+        "brand": "Amazon",
+        "avgRating": 4,
+        "ratings": 17602,
+        "price": 34.99,
+        "oldPrice": 40.99,
+        "badge": "choice"
+      },
+      {
+        "id": 8,
+        "title": "BOSS Men's Prime Shirt",
+        "img": "https://live.staticflickr.com/65535/53328182556_eb5a973ea8_m.jpg",
+        "attribute": "Polo",
+        "description": "Shirt; BOSS; HUGO BOSS. 100% Cotton. Machine Wash. Fastening: Pull On. Collar Style: Classic. Slim Fit",
+        "brand": "Hugo Boss",
+        "avgRating": 3,
+        "ratings": 10,
+        "price": 42.95,
+        "oldPrice": 45.0
+      },
+      {
+        "id": 9,
+        "title": "Apple 2022 10.9-inch iPad",
+        "img": "https://live.staticflickr.com/65535/53328525879_4652a872fe_m.jpg",
+        "attribute": "iPad",
+        "description": "Striking 10.9-inch Liquid Retina display with True Tone. A14 Bionic chip with 6-core CPU and 4-core GPU. 12MP Wide back camera",
+        "brand": "Apple",
+        "avgRating": 5,
+        "ratings": 262,
+        "price": 499.0,
+        "oldPrice": 549.0,
+        "badge": "choice"
+      },
+      {
+        "id": 10,
+        "title": "DeLonghi Nescafé Dolce Coffee Machine",
+        "img": "https://live.staticflickr.com/65535/53328404998_2e2ef0a15c_m.jpg",
+        "attribute": "Coffee Machine",
+        "description": "Over 40 beverage varieties including Nescafe Dolce Gusto or starbucks coffees. Hot and cold drink capability for hot and cold beverages prepared with one easy move of the machine’s manual lever. Easy to clean as all the coffee grinds stay in the pods there is no mess, no fuss",
+        "brand": "Nescafé",
+        "avgRating": 4,
+        "ratings": 6283,
+        "price": 34.99,
+        "oldPrice": 79.99,
+        "badge": "limited"
+      },
+      {
+        "id": 11,
+        "title": "Apple iPhone 14 Pro - Deep Purple",
+        "img": "https://live.staticflickr.com/65535/53328525874_7f77aa3140_m.jpg",
+        "attribute": "Mobile",
+        "description": "6.1-inch Super Retina XDR display featuring Always-On and ProMotion. Dynamic Island, a magical new way to interact with iPhone. 48MP Main camera for up to 4x greater resolution. Cinematic mode now in 4K Dolby Vision up to 30 fps",
+        "brand": "Apple",
+        "avgRating": 5,
+        "ratings": 1047,
+        "price": 1039.0,
+        "oldPrice": 1099.0,
+        "badge": "seller"
+      },
+      {
+        "id": 12,
+        "title": "Redmi 12 Hybrid Dual SIM, 8GB RAM,",
+        "img": "https://m.media-amazon.com/images/I/51QBe2mJv8L.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "attribute": "Mobile",
+        "description": "6.1-inch Super Retina XDR display featuring Always-On and ProMotion. Dynamic Island, a magical new way to interact with iPhone. 48MP Main camera for up to 4x greater resolution. Cinematic mode now in 4K Dolby Vision up to 30 fps",
+        "brand": "Redmi",
+        "avgRating": 5,
+        "ratings": 1047,
+        "price": 1039.0,
+        "oldPrice": 1099.0,
+        "badge": "seller"
+      },
+      {
+        "id": 13,
+        "title": "Xiaomi Redmi Note 12s,",
+        "img": "https://m.media-amazon.com/images/I/814twV1phHL.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "attribute": "Mobile",
+        "description": "6.1-inch Super Retina XDR display featuring Always-On and ProMotion. Dynamic Island, a magical new way to interact with iPhone. 48MP Main camera for up to 4x greater resolution. Cinematic mode now in 4K Dolby Vision up to 30 fps",
+        "brand": "Xiaomi",
+        "avgRating": 5,
+        "ratings": 1047,
+        "price": 1039.0,
+        "oldPrice": 1099.0,
+        "badge": "seller"
+      },
+      {
+        "id": 14,
+        "title": "Golden Life Sofa Bed - Size 190 cm - Beige",
+        "img": "https://m.media-amazon.com/images/I/61p53aIdUDL._AC_SX679_.jpg",
+        "attribute": "Sofa Bed",
+        "description": " الخشب : زان أحمر نوع القماش : الكتان اللون : بيج فى حالة أريكة : 190 فى حالة سرير : 110 عمق : 70 الارتفاع : 90 الكثافة الفسفنج : 33 كجم / م3 وسائد : نفس لون الأريكة",
+        "brand": "Generic",
+        "avgRating": 4,
+        "ratings": 6283,
+        "price": 34.99,
+        "oldPrice": 79.99,
+        "badge": "limited"
+      },
+      {
+        "id": 15,
+        "title": "Mens Casual Premium Slim Fit T-Shirts ",
+        "img": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "attribute": "Polo",
+        "description": "Shirt; BOSS; HUGO BOSS. 100% Cotton. Machine Wash. Fastening: Pull On. Collar Style: Classic. Slim Fit",
+        "brand": "Hugo Boss",
+        "avgRating": 3,
+        "ratings": 10,
+        "price": 42.95,
+        "oldPrice": 45.0
+      },
+      {
+        "id": 16,
+        "title": "Mens Cotton Jacket ",
+        "img": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "attribute": "Polo",
+        "description": "Shirt; BOSS; HUGO BOSS. 100% Cotton. Machine Wash. Fastening: Pull On. Collar Style: Classic. Slim Fit",
+        "brand": "Hugo Boss",
+        "avgRating": 3,
+        "ratings": 10,
+        "price": 42.95,
+        "oldPrice": 45.0
+      },
+      {
+        "id": 17,
+        "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet ",
+        "img": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "attribute": "Polo",
+        "description": "Shirt; BOSS; HUGO BOSS. 100% Cotton. Machine Wash. Fastening: Pull On. Collar Style: Classic. Slim Fit",
+        "brand": "Hugo Boss",
+        "avgRating": 3,
+        "ratings": 10,
+        "price": 42.95,
+        "oldPrice": 45.0
+      },
+      {
+        "id": 18,
+        "title": "Opna Women's Short Sleeve Moisture ",
+        "img": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "attribute": "Polo",
+        "description": "Shirt; BOSS; HUGO BOSS. 100% Cotton. Machine Wash. Fastening: Pull On. Collar Style: Classic. Slim Fit",
+        "brand": "Hugo Boss",
+        "avgRating": 3,
+        "ratings": 10,
+        "price": 42.95,
+        "oldPrice": 45.0
+      },
+      {
+        "id": 19,
+        "title": " Lenovo IdeaPad Gaming 3 15ACH6 Laptop ",
+        "img": "https://m.media-amazon.com/images/I/71SkQ-Zj79L._AC_SX679_.jpg",
+        "attribute": "Laptop",
+        "description": "Lenovo IdeaPad Gaming 3 15ACH6 Laptop - Ryzen 7 5800H 8-Cores, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3060 6GB GDDR6 Graphics, 15.6 FHD (1920x1080) IPS 120Hz, 4-Zone RGB Backlit - Windows 11 ",
+        "brand": " Lenovo",
+        "avgRating": 5,
+        "ratings": 877,
+        "price": 719.48,
+        "oldPrice": 1111.99,
+        "badge": "choice"
+      }
+    ],
+    "Computers": [
+      {
+        "id": 9,
+        "title": "Apple 2022 10.9-inch iPad",
+        "img": "https://live.staticflickr.com/65535/53328525879_4652a872fe_m.jpg",
+        "attribute": "iPad",
+        "description": "Striking 10.9-inch Liquid Retina display with True Tone. A14 Bionic chip with 6-core CPU and 4-core GPU. 12MP Wide back camera",
+        "brand": "Apple",
+        "avgRating": 5,
+        "ratings": 262,
+        "price": 499.0,
+        "oldPrice": 549.0,
+        "badge": "choice"
+      },
+      {
+        "id": 19,
+        "title": " Lenovo IdeaPad Gaming 3 15ACH6 Laptop ",
+        "img": "https://m.media-amazon.com/images/I/71SkQ-Zj79L._AC_SX679_.jpg",
+        "attribute": "Laptop",
+        "description": "Lenovo IdeaPad Gaming 3 15ACH6 Laptop - Ryzen 7 5800H 8-Cores, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3060 6GB GDDR6 Graphics, 15.6 FHD (1920x1080) IPS 120Hz, 4-Zone RGB Backlit - Windows 11 ",
+        "brand": " Lenovo",
+        "avgRating": 5,
+        "ratings": 877,
+        "price": 719.48,
+        "oldPrice": 1111.99,
+        "badge": "choice"
+      }
+    ],
+    "Deals": [
+      {
+        "id": 10,
+        "title": "DeLonghi Nescafé Dolce Coffee Machine",
+        "img": "https://live.staticflickr.com/65535/53328404998_2e2ef0a15c_m.jpg",
+        "attribute": "Coffee Machine",
+        "description": "Over 40 beverage varieties including Nescafe Dolce Gusto or starbucks coffees. Hot and cold drink capability for hot and cold beverages prepared with one easy move of the machine’s manual lever. Easy to clean as all the coffee grinds stay in the pods there is no mess, no fuss",
+        "brand": "Nescafé",
+        "avgRating": 4,
+        "ratings": 6283,
+        "price": 34.99,
+        "oldPrice": 79.99,
+        "badge": "limited"
+      },
+      {
+        "id": 3,
+        "title": "Interesting Facts For Curious Minds",
+        "img": "https://live.staticflickr.com/65535/53322405290_1dc17c3a7c_m.jpg",
+        "attribute": "Hardcover",
+        "description": "Want to impress your friends and family with both useful, worthless but undeniably interesting facts? ",
+        "brand": "Jordan Moore",
+        "avgRating": 4,
+        "ratings": 885,
+        "price": 10.9,
+        "oldPrice": 13.99,
+        "badge": "limited"
+      }
+    ],
+    "Amazon": [
+      {
+        "id": 7,
+        "title": "Fire TV Stick Lite",
+        "img": "https://live.staticflickr.com/65535/53328525904_97798348ec_m.jpg",
+        "attribute": "Streaming Device",
+        "description": "Our most affordable Fire TV Stick—enjoy fast streaming in Full HD. Comes with Alexa Voice Remote Lite. Easy to set up, stays hidden—plug in behind your TV, turn on the TV and connect to the internet to get set up. ",
+        "brand": "Amazon",
+        "avgRating": 4,
+        "ratings": 17602,
+        "price": 34.99,
+        "oldPrice": 40.99,
+        "badge": "choice"
+      }
+    ],
+    "Fashion": [
+      {
+        "id": 8,
+        "title": "BOSS Men's Prime Shirt",
+        "img": "https://live.staticflickr.com/65535/53328182556_eb5a973ea8_m.jpg",
+        "attribute": "Polo",
+        "description": "Shirt; BOSS; HUGO BOSS. 100% Cotton. Machine Wash. Fastening: Pull On. Collar Style: Classic. Slim Fit",
+        "brand": "Hugo Boss",
+        "avgRating": 3,
+        "ratings": 10,
+        "price": 42.95,
+        "oldPrice": 45.0
+      },
+      {
+        "id": 15,
+        "title": "Mens Casual Premium Slim Fit T-Shirts ",
+        "img": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "attribute": "Polo",
+        "description": "Shirt; BOSS; HUGO BOSS. 100% Cotton. Machine Wash. Fastening: Pull On. Collar Style: Classic. Slim Fit",
+        "brand": "Hugo Boss",
+        "avgRating": 3,
+        "ratings": 10,
+        "price": 42.95,
+        "oldPrice": 45.0
+      },
+      {
+        "id": 16,
+        "title": "Mens Cotton Jacket ",
+        "img": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "attribute": "Polo",
+        "description": "Shirt; BOSS; HUGO BOSS. 100% Cotton. Machine Wash. Fastening: Pull On. Collar Style: Classic. Slim Fit",
+        "brand": "Hugo Boss",
+        "avgRating": 3,
+        "ratings": 10,
+        "price": 42.95,
+        "oldPrice": 45.0
+      },
+      {
+        "id": 17,
+        "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet ",
+        "img": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "attribute": "Polo",
+        "description": "Shirt; BOSS; HUGO BOSS. 100% Cotton. Machine Wash. Fastening: Pull On. Collar Style: Classic. Slim Fit",
+        "brand": "Hugo Boss",
+        "avgRating": 3,
+        "ratings": 10,
+        "price": 42.95,
+        "oldPrice": 45.0
+      },
+      {
+        "id": 18,
+        "title": "Opna Women's Short Sleeve Moisture ",
+        "img": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "attribute": "Polo",
+        "description": "Shirt; BOSS; HUGO BOSS. 100% Cotton. Machine Wash. Fastening: Pull On. Collar Style: Classic. Slim Fit",
+        "brand": "Hugo Boss",
+        "avgRating": 3,
+        "ratings": 10,
+        "price": 42.95,
+        "oldPrice": 45.0
+      }
+    ],
+    "Home": [
+      {
+        "id": 10,
+        "title": "DeLonghi Nescafé Dolce Coffee Machine",
+        "img": "https://live.staticflickr.com/65535/53328404998_2e2ef0a15c_m.jpg",
+        "attribute": "Coffee Machine",
+        "description": "Over 40 beverage varieties including Nescafe Dolce Gusto or starbucks coffees. Hot and cold drink capability for hot and cold beverages prepared with one easy move of the machine’s manual lever. Easy to clean as all the coffee grinds stay in the pods there is no mess, no fuss",
+        "brand": "Nescafé",
+        "avgRating": 4,
+        "ratings": 6283,
+        "price": 34.99,
+        "oldPrice": 79.99,
+        "badge": "limited"
+      },
+      {
+        "id": 14,
+        "title": "Golden Life Sofa Bed - Size 190 cm - Beige",
+        "img": "https://m.media-amazon.com/images/I/61p53aIdUDL._AC_SX679_.jpg",
+        "attribute": "Sofa Bed",
+        "description": " الخشب : زان أحمر نوع القماش : الكتان اللون : بيج فى حالة أريكة : 190 فى حالة سرير : 110 عمق : 70 الارتفاع : 90 الكثافة الفسفنج : 33 كجم / م3 وسائد : نفس لون الأريكة",
+        "brand": "Generic",
+        "avgRating": 4,
+        "ratings": 6283,
+        "price": 34.99,
+        "oldPrice": 79.99,
+        "badge": "limited"
+      }
+    ],
+    "Mobiles": [
+      {
+        "id": 11,
+        "title": "Apple iPhone 14 Pro - Deep Purple",
+        "img": "https://live.staticflickr.com/65535/53328525874_7f77aa3140_m.jpg",
+        "attribute": "Mobile",
+        "description": "6.1-inch Super Retina XDR display featuring Always-On and ProMotion. Dynamic Island, a magical new way to interact with iPhone. 48MP Main camera for up to 4x greater resolution. Cinematic mode now in 4K Dolby Vision up to 30 fps",
+        "brand": "Apple",
+        "avgRating": 5,
+        "ratings": 1047,
+        "price": 1039.0,
+        "oldPrice": 1099.0,
+        "badge": "seller"
+      },
+      {
+        "id": 12,
+        "title": "Redmi 12 Hybrid Dual SIM, 8GB RAM,",
+        "img": "https://m.media-amazon.com/images/I/51QBe2mJv8L.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "attribute": "Mobile",
+        "description": "6.1-inch Super Retina XDR display featuring Always-On and ProMotion. Dynamic Island, a magical new way to interact with iPhone. 48MP Main camera for up to 4x greater resolution. Cinematic mode now in 4K Dolby Vision up to 30 fps",
+        "brand": "Redmi",
+        "avgRating": 5,
+        "ratings": 1047,
+        "price": 1039.0,
+        "oldPrice": 1099.0,
+        "badge": "seller"
+      },
+      {
+        "id": 13,
+        "title": "Xiaomi Redmi Note 12s,",
+        "img": "https://m.media-amazon.com/images/I/814twV1phHL.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "attribute": "Mobile",
+        "description": "6.1-inch Super Retina XDR display featuring Always-On and ProMotion. Dynamic Island, a magical new way to interact with iPhone. 48MP Main camera for up to 4x greater resolution. Cinematic mode now in 4K Dolby Vision up to 30 fps",
+        "brand": "Xiaomi",
+        "avgRating": 5,
+        "ratings": 1047,
+        "price": 1039.0,
+        "oldPrice": 1099.0,
+        "badge": "seller"
+      }
+    ]
+  }
+}
