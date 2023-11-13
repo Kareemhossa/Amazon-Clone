@@ -41,10 +41,8 @@ Firebase for authentication and database, Stripe for handling payments, Tailwind
    git clone https://github.com/yourusername/amazon-clone.git
    cd amazon-clone
 
-
-   ## Usage
-
-Describe how to use your application.
+ 
+## Usage
 
 ## Firebase Setup
 
